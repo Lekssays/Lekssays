@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ahmed Lekssays :)
 
 <!--
 **Lekssays/Lekssays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a Security Researcher at Qatar Computing Research Institute
+- 🌱 I’m interested in projects related but not limited to malware analysis, application security, distributed systems, blockchain, and operating systems.
+- 📫 How to reach me: firstname@lastname.com
+- 😄 Pronouns: he/him
