@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: firstname@lastname.com (don't forget to replace firstname and lastname 🤭)
 - 😄 Pronouns: he/him
 
-*CVEs:* php-core (CVE-2025-6491), libxml2 (CVE-2025-6021 and CVE-2025-6170), VLC Media Player (CVE-2025-51602)
+*CVEs:* php-core (CVE-2025-6491), libxml2 (CVE-2025-6021, CVE-2025-6170, CVE-2025-12863), VLC Media Player (CVE-2025-51602)
